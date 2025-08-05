@@ -1,8 +1,4 @@
 {
-  "project": "My Project",
-  "editUrlLabel": "Document Authoring",
-/* "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}" */
-
   "project": "Boilerplate",
   "plugins": [
     {
@@ -26,5 +22,4 @@
       "paletteRect": "top: 54px; left: 5px; bottom: 5px; width: 300px; height: calc(100% - 59px); border-radius: var(--hlx-sk-button-border-radius); overflow: hidden; resize: horizontal;"
     }
   ]
-
 }
